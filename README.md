@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepaksriramk1904)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepaksriramk)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DeepaksriramK/)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sriram934596)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SriRamKD1904)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriram934596@gmail.com)
   
@@ -128,7 +128,7 @@ Passionate B.Tech IT student with a strong foundation in **full stack web develo
 |--------|-------|
 | LeetCode Problems Solved | 100+ |
 | Projects Built | 15+ |
-| Technical Skills | 20+ |
+| Technical Skills | 10+ |
 | Certifications & Courses | 5+ |
 | GitHub Repositories | 22+ |
 
