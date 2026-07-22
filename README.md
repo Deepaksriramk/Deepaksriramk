@@ -93,7 +93,7 @@ Passionate B.Tech IT student with a strong foundation in **full stack web develo
      - Reduced patient management overhead by 60%
      - Enabled seamless therapist-patient communication
      - Automated billing reduced processing time by 80%
-   - 🔗 [View Project](https://github.com/girinataraj/clinic-repo)
+   - 🔗 [View Project](https://github.com/girinataraj/clinic-repo.)
 
 ### 2. **Employee Management System** 
    - **Tech Stack**: React • Node.js • PostgreSQL • Experss •
