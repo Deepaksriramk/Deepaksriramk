@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👨‍💻 Deepaksriram K</h1>
   <p>
-    <strong>Full Stack Developer | React • Next.js • Node.js</strong>
+    <strong>Full Stack Developer | React • Node.js</strong>
     <br/>
     B.Tech Information Technology Student @ Nandha Engineering College
   </p>
