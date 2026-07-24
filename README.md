@@ -146,7 +146,7 @@ Passionate B.Tech IT student with a strong foundation in **full stack web develo
 
 | Resource | Link |
 |----------|------|
-| 📄 Resume (PDF) | [Download](#) |
+| 📄 Resume (PDF) | [Download](https://github.com/Deepaksriramk/Deepaksriramk/blob/main/Deepaksriram.pdf) |
 
 ---
 
