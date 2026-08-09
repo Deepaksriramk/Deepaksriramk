@@ -93,26 +93,24 @@ Passionate B.Tech IT student with a strong foundation in **full stack web develo
      - Reduced patient management overhead by 60%
      - Enabled seamless therapist-patient communication
      - Automated billing reduced processing time by 80%
-   - 🔗 [View Project](https://github.com/girinataraj/clinic-repo.)
-
+       
 ### 2. **Employee Management System** 
    - **Tech Stack**: React • Node.js • PostgreSQL • Experss •
    - **Features**: Store the employee details Accquisted by I-GEN ,file storage via GoogleDrive, employee CRUD operations
    - **Impact**: Integrated enterprise-level authentication and cloud storage
-   - 🔗 [View Project](https://github.com/girinataraj/Talent-Acquisition-iGEN)
-
+     
 ## 🏆 Mini Featured Projects
 ### 1. **Wandr - Travel Destination Explorer**
    - **Tech Stack**: React • Express • MySQL • Leaflet Maps • OpenWeatherMap API • Unsplash
    - **Features**: Interactive maps, real-time weather, destination recommendations, responsive design
    - **Impact**: Full-stack application with multiple third-party API integrations
-   - 🔗 [View Project](#)
+   
 
 ### 2. **YOLOv8 Waste Detection & Quantification System**
    - **Tech Stack**: Python • YOLOv8 • OpenCV • AI/ML • Computer Vision
    - **Features**: Real-time waste detection, quantification across pollution scenarios, simulation results
    - **Impact**: Implemented advanced ML model for environmental monitoring
-   - 🔗 [View Project](#)
+  
 
 ### 3. **Portfolio Website**
    - **Tech Stack**: Next.js • TypeScript • Tailwind CSS • Framer Motion
