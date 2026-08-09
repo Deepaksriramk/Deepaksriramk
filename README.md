@@ -124,7 +124,7 @@ Passionate B.Tech IT student with a strong foundation in **full stack web develo
 
 | Metric | Count |
 |--------|-------|
-| LeetCode Problems Solved | 100+ |
+| LeetCode Problems Solved | 200+ |
 | Projects Built | 15+ |
 | Technical Skills | 10+ |
 | Certifications & Courses | 5+ |
