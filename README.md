@@ -72,8 +72,7 @@ const deepaksriram = {
 | When | What | Where |
 |:-----|:-----|:------|
 | **May – Aug 2026** | Software Developer Intern | iGen Services and Solutions Pvt. Ltd., Erode |
-| **Present** | B.Tech, Information Technology | Nandha Engineering College, Erode |
-| **Completed** | MongoDB Certification | |
+| **Present** | B.Tech, Information Technology | Nandha Engineering College, Erode | |
 
 </div>
 
@@ -85,15 +84,13 @@ const deepaksriram = {
 
 | Area | Technologies |
 |:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,html,css&perline=7" alt="React, JavaScript, TypeScript, Next.js, Tailwind CSS, HTML, CSS"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css&perline=7" alt="React, JavaScript, TypeScript,Tailwind CSS, HTML, CSS"> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c&perline=5" alt="Node.js, Express, Python, Java, C"> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="MySQL, PostgreSQL, MongoDB"> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,azure,pycharm,eclipse&perline=9" alt="Git, GitHub, VS Code, Figma, Postman, Netlify, Azure, PyCharm, Eclipse"> |
-| **Learning** | <img src="https://skillicons.dev/icons?i=flutter&perline=1" alt="Flutter"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,pycharm,eclipse,netlify&perline=8" alt="Git, GitHub, VS Code, Figma, Postman, PyCharm, Eclipse, Netlify"><img src="assets/render.svg" width="56" height="48" alt="Render"> |
 
 </div>
 
-<p align="center"><sub>Also used: Framer Motion · Overleaf · Microsoft Office</sub></p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -212,11 +209,6 @@ const deepaksriram = {
 <img src="assets/divider.svg" width="100%" alt="">
 
 <h2 align="center">Coding Activity</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepaksriramk&theme=tokyonight" alt="Top languages by repository" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepaksriramk&theme=tokyonight" alt="Top languages by commit" width="49%">
-</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcode-stats-six.vercel.app/api?username=Deepaksriram&theme=dark" alt="LeetCode: problems solved by difficulty" width="49%"></a>
