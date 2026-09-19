@@ -16,7 +16,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Passionate B.Tech IT student with a strong foundation in <b>full stack web development</b>.<br>
+Passionate B.Tech IT student with a strong foundation in <b>Full Stack Web Development</b>.<br>
 I love building innovative, scalable solutions that solve real-world problems.<br>
 Always learning, constantly growing, and open to exciting collaborations!
 </p>
