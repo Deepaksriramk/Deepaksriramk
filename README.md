@@ -214,6 +214,8 @@ const deepaksriram = {
   <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcode-stats-six.vercel.app/api?username=Deepaksriram&theme=dark" alt="LeetCode: problems solved by difficulty" width="49%"></a>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-snake.svg" alt="GitHub contribution snake"></p>
+
 <img src="assets/divider.svg" width="100%" alt="">
 
 <h2 align="center">Let's Connect</h2>
