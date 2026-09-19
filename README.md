@@ -1,154 +1,239 @@
+<p align="center">
+<img src="assets/hero.svg" alt="Deepaksriram K, Full Stack Developer. React, Node.js, PostgreSQL. Open to internships and collaborations." width="100%">
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/deepaksriramk1904"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2FhMmY3IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTYgOGE2IDYgMCAwIDEgNiA2djdoLTR2LTdhMiAyIDAgMCAwLTItMiAyIDIgMCAwIDAtMiAydjdoLTR2LTdhNiA2IDAgMCAxIDYtNnoiLz48cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIi8%2BPC9zdmc%2B" alt="LinkedIn"></a>
+<a href="https://github.com/Deepaksriramk"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="GitHub"></a>
+<a href="https://leetcode.com/u/Deepaksriram/"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=7aa2f7" alt="LeetCode"></a>
+<a href="https://www.hackerrank.com/profile/sriram934596"><img src="https://img.shields.io/badge/HackerRank-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=7aa2f7" alt="HackerRank"></a>
+<a href="https://x.com/SriRamKD1904"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=7aa2f7" alt="X"></a>
+<a href="mailto:sriram934596@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email"></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+Passionate B.Tech IT student with a strong foundation in <b>full stack web development</b>.<br>
+I love building innovative, scalable solutions that solve real-world problems.<br>
+Always learning, constantly growing, and open to exciting collaborations!
+</p>
+
+```ts
+const deepaksriram = {
+  name:       "Deepaksriram K",
+  role:       "Full Stack Developer",
+  location:   "Erode, Tamil Nadu, India",
+  education:  "B.Tech Information Technology @ Nandha Engineering College",
+  experience: "Software Developer Intern @ iGen Services and Solutions (May–Aug 2026)",
+  stack:      ["React", "Node.js", "Express", "PostgreSQL", "MySQL"],
+  learning:   ["Advanced DSA", "Flutter"],
+  openTo:     ["Internships", "Collaborative projects", "Learning opportunities"],
+  interests:  ["Innovative projects", "Team collaboration", "Team management"],
+  goal:       "Ship impactful projects and keep a clean academic record",
+};
+```
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h3>🌐</h3>
+      <b>Full Stack Web</b><br>
+      <sub>End-to-end apps with React, Node.js and databases. Responsive, interactive UIs.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🧠</h3>
+      <b>Data Structures &amp; Algorithms</b><br>
+      <sub>Solving complex problems with optimized solutions.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🗄️</h3>
+      <b>SQL &amp; Database Design</b><br>
+      <sub>Efficient data modeling and query optimization.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>📱</h3>
+      <b>Mobile Development</b><br>
+      <sub>Exploring Flutter for cross-platform applications.</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<h2 align="center">Journey</h2>
+
 <div align="center">
-  <h1>👨‍💻 Deepaksriram K</h1>
-  <p>
-    <strong>Full Stack Developer | React • Node.js</strong>
-    <br/>
-    B.Tech Information Technology Student @ Nandha Engineering College
-  </p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepaksriramk1904)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepaksriramk)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DeepaksriramK/)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sriram934596)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SriRamKD1904)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriram934596@gmail.com)
-  
-  <p>📍 Erode, Tamil Nadu | 📧 sriram934596@gmail.com | 📱 +91 9345062293</p>
+
+| When | What | Where |
+|:-----|:-----|:------|
+| **May – Aug 2026** | Software Developer Intern | iGen Services and Solutions Pvt. Ltd., Erode |
+| **Present** | B.Tech, Information Technology | Nandha Engineering College, Erode |
+| **Completed** | MongoDB Certification | |
+
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-## 🚀 About Me
+<h2 align="center">Tech Stack</h2>
 
-Passionate B.Tech IT student with a strong foundation in **full stack web development**. I love building innovative, scalable solutions that solve real-world problems. Always learning, constantly growing, and open to exciting collaborations!
+<div align="center">
 
-- 🎓 **Currently Learning**: Advanced DSA , Flutter Mobile Development
-- 💼 **Open To**: Internships • Collaborative Projects • Learning Opportunities
-- 🎯 **Goal**: Zero arrears in college & build impactful projects
+| Area | Technologies |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,html,css&perline=7" alt="React, JavaScript, TypeScript, Next.js, Tailwind CSS, HTML, CSS"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c&perline=5" alt="Node.js, Express, Python, Java, C"> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="MySQL, PostgreSQL, MongoDB"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,azure,pycharm,eclipse&perline=9" alt="Git, GitHub, VS Code, Figma, Postman, Netlify, Azure, PyCharm, Eclipse"> |
+| **Learning** | <img src="https://skillicons.dev/icons?i=flutter&perline=1" alt="Flutter"> |
 
----
+</div>
 
-## 💼 Technical Skills
+<p align="center"><sub>Also used: Framer Motion · Overleaf · Microsoft Office</sub></p>
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer&logoColor=white)
+<img src="assets/divider.svg" width="100%" alt="">
 
-### Backend & Programming
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+<h2 align="center">Featured Work</h2>
 
-### Database & Data
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<h3 align="center">Major Projects</h3>
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+<table>
+<tr>
+<td width="30%" valign="top">
 
-### Additional Tools
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+#### 🏥 Digitalized Patients Management System
+**Physiotherapy Hospital**
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres&perline=4" alt="React, Node.js, Express, PostgreSQL"><br>
+<sub>+ PDF reports</sub>
 
-## 🎯 Specializations
+</td>
+<td valign="top">
 
-- **Full Stack Web Development** - Building end-to-end applications with React, Node.js & databases
-- **Data Structures & Algorithms** - Solving complex problems with optimized solutions
-- **Web Development & Frontend** - Creating responsive, beautiful, and interactive UIs
-- **SQL & Database Design** - Efficient data modeling and query optimization
-- **Mobile Development** - Exploring Flutter for cross-platform applications
+**Features**
+- Complete patient registration and profile management
+- Treatment plan creation and progress tracking
+- Billing and invoice generation with payment tracking
+- Therapist performance analytics and workload management
+- Real-time appointment notifications
+- Prescription management and downloadable reports
+- Role-based access control (Admin, Doctor, Therapist)
 
----
+**Impact**
+- Reduced patient management overhead by 60%
+- Enabled seamless therapist-patient communication
+- Automated billing reduced processing time by 80%
 
-## 🏆 Major Featured Projects
+</td>
+</tr>
+</table>
 
-### 1. **Digitalized Patients Management System - Physiotherapy Hospital**
-   - **Tech Stack**: React • Node.js • PostgreSQL • Express • PDF Reports
-   - **Features**: 
-     - Complete patient registration & profile management
-     - Treatment plan creation & progress tracking
-     - Billing & invoice generation with payment tracking
-     - Therapist performance analytics & workload management
-     - Real-time appointment notifications
-     - Prescription management & downloadable reports
-     - Role-based access control (Admin , Doctor , Therapist )
-   - **Impact**: 
-     - Reduced patient management overhead by 60%
-     - Enabled seamless therapist-patient communication
-     - Automated billing reduced processing time by 80%
-       
-### 2. **Employee Management System** 
-   - **Tech Stack**: React • Node.js • PostgreSQL • Experss •
-   - **Features**: Store the employee details Accquisted by I-GEN ,file storage via GoogleDrive, employee CRUD operations
-   - **Impact**: Integrated enterprise-level authentication and cloud storage
-     
-## 🏆 Mini Featured Projects
-### 1. **Wandr - Travel Destination Explorer**
-   - **Tech Stack**: React • Express • MySQL • Leaflet Maps • OpenWeatherMap API • Unsplash
-   - **Features**: Interactive maps, real-time weather, destination recommendations, responsive design
-   - **Impact**: Full-stack application with multiple third-party API integrations
-   
+<table>
+<tr>
+<td width="30%" valign="top">
 
-### 2. **YOLOv8 Waste Detection & Quantification System**
-   - **Tech Stack**: Python • YOLOv8 • OpenCV • AI/ML • Computer Vision
-   - **Features**: Real-time waste detection, quantification across pollution scenarios, simulation results
-   - **Impact**: Implemented advanced ML model for environmental monitoring
-  
+#### 🏢 Employee Management System
+**iGen Services and Solutions**
 
-### 3. **Portfolio Website**
-   - **Tech Stack**: Next.js • TypeScript • Tailwind CSS • Framer Motion
-   - **Features**: Glassmorphism design, smooth animations, dark mode, ATS-optimized resume
-   - **Showcase**: Professional personal brand with modern web technologies
-   - 🔗 [View Live](#)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres&perline=4" alt="React, Node.js, Express, PostgreSQL"><br>
+<sub>+ Google Drive storage</sub>
 
----
+</td>
+<td valign="top">
 
-## 📊 Statistics
+**Features**
+- Stores employee details acquired by I-GEN
+- Employee CRUD operations
+- File storage via Google Drive
 
-| Metric | Count |
-|--------|-------|
-| LeetCode Problems Solved | 200+ |
-| Projects Built | 15+ |
-| Technical Skills | 10+ |
-| Certifications & Courses | 5+ |
-| GitHub Repositories | 22+ |
+**Impact**
+- Integrated enterprise-level authentication and cloud storage
 
----
+</td>
+</tr>
+</table>
 
-## 🎓 Education & Certifications
+<h3 align="center">Mini Projects</h3>
 
-- **B.Tech in Information Technology** (Pursuing) - Nandha Engineering College, Erode
-- **MongoDB Certification** - Completed
-- **Problem-Solving on LeetCode** - Active learner
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+#### 🗺️ Wandr
+**Travel Destination Explorer**
 
-## 📥 Download Resources
+<img src="https://skillicons.dev/icons?i=react,express,mysql&perline=3" alt="React, Express, MySQL"><br>
+<sub>+ Leaflet Maps · OpenWeatherMap API · Unsplash</sub>
 
-| Resource | Link |
-|----------|------|
-| 📄 Resume (PDF) | [Download](https://github.com/Deepaksriramk/Deepaksriramk/blob/main/Deepaksriram.pdf) |
+- Interactive maps and real-time weather
+- Destination recommendations
+- Responsive design
 
----
+**Impact:** full-stack app with multiple third-party API integrations
 
-## 📈 My Interests
--**Developing a Innovative projects**
--**Team collabrations**
--**Team management**
+</td>
+<td width="33%" valign="top">
+
+#### ♻️ YOLOv8 Waste Detection
+**Detection and Quantification System**
+
+<img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"><br>
+<sub>+ YOLOv8 · OpenCV · Computer Vision</sub>
+
+- Real-time waste detection
+- Quantification across pollution scenarios
+- Simulation results
+
+**Impact:** implemented an advanced ML model for environmental monitoring
+
+</td>
+<td width="33%" valign="top">
+
+#### ✨ Portfolio Website
+**Personal brand site**
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&perline=3" alt="Next.js, TypeScript, Tailwind CSS"><br>
+<sub>+ Framer Motion</sub>
+
+- Glassmorphism design and smooth animations
+- Dark mode
+- ATS-optimized resume
+
+**Showcase:** professional personal brand with modern web technologies
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<h2 align="center">Coding Activity</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepaksriramk&theme=tokyonight" alt="Top languages by repository" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepaksriramk&theme=tokyonight" alt="Top languages by commit" width="49%">
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcode-stats-six.vercel.app/api?username=Deepaksriram&theme=dark" alt="LeetCode: problems solved by difficulty" width="49%"></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/Deepaksriramk/Deepaksriramk/raw/main/Deepaksriram.pdf"><img src="https://img.shields.io/badge/Download%20Resume-1a1b27?style=for-the-badge&logo=readme&logoColor=7aa2f7" alt="Download resume (PDF)"></a>
+</p>
+
+<p align="center">
+  📍 Erode, Tamil Nadu &nbsp;·&nbsp; ✉️ <a href="mailto:sriram934596@gmail.com">sriram934596@gmail.com</a>
+</p>
+
+<br>
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something impactful together.">

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16161e"/><stop offset="1" stop-color="#2a2f4a"/></linearGradient>
+    <linearGradient id="fw1" x1="0" x2="1"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+    <linearGradient id="fw2" x1="0" x2="1"><stop offset="0" stop-color="#bb9af7"/><stop offset="1" stop-color="#f7768e"/></linearGradient>
+    <linearGradient id="ft" gradientUnits="userSpaceOnUse" x1="380" x2="820"><stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#bb9af7"/><stop offset="1" stop-color="#f7768e"/></linearGradient>
+    <clipPath id="fc"><rect width="1200" height="220" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#fc)">
+    <rect width="1200" height="220" fill="url(#fbg)"/>
+    <path d="M-600 158 C-450 144 -450 144 -300 158 S-150 172 0 158 C150 144 150 144 300 158 S450 172 600 158 C750 144 750 144 900 158 S1050 172 1200 158 C1350 144 1350 144 1500 158 S1650 172 1800 158 C1950 144 1950 144 2100 158 S2250 172 2400 158 L2400 220 L-600 220Z" fill="url(#fw1)" fill-opacity=".28"><animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="14s" repeatCount="indefinite"/></path>
+    <path d="M-600 172 C-450 161 -450 161 -300 172 S-150 183 0 172 C150 161 150 161 300 172 S450 183 600 172 C750 161 750 161 900 172 S1050 183 1200 172 C1350 161 1350 161 1500 172 S1650 183 1800 172 C1950 161 1950 161 2100 172 S2250 183 2400 172 L2400 220 L-600 220Z" fill="url(#fw2)" fill-opacity=".38"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="11s" repeatCount="indefinite"/></path>
+    <path d="M-600 188 C-450 180 -450 180 -300 188 S-150 196 0 188 C150 180 150 180 300 188 S450 196 600 188 C750 180 750 180 900 188 S1050 196 1200 188 C1350 180 1350 180 1500 188 S1650 196 1800 188 C1950 180 1950 180 2100 188 S2250 196 2400 188 L2400 220 L-600 220Z" fill="#7aa2f7" fill-opacity=".45"><animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="8s" repeatCount="indefinite"/></path>
+    <text x="600" y="78" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="800" fill="url(#ft)">Thanks for stopping by</text>
+    <text x="600" y="116" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="21" fill="#a9b1d6">Let’s build something impactful together.</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="218.5" rx="27.5" fill="none" stroke="#7aa2f7" stroke-opacity=".28" stroke-width="1.5"/>
+</svg>
