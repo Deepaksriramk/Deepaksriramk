@@ -214,7 +214,13 @@ const deepaksriram = {
   <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcode-stats-six.vercel.app/api?username=Deepaksriram&theme=dark" alt="LeetCode: problems solved by difficulty" width="49%"></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-snake.svg" alt="GitHub contribution snake"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+  </picture>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
