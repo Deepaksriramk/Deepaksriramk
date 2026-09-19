@@ -214,13 +214,7 @@ const deepaksriram = {
   <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcode-stats-six.vercel.app/api?username=Deepaksriram&theme=dark" alt="LeetCode: problems solved by difficulty" width="49%"></a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-contribution-grid-snake.svg?v=2">
-    <img src="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-contribution-grid-snake.svg?v=2" alt="GitHub contribution snake">
-  </picture>
-</p>
+<p align="center"><a href="https://github.com/Deepaksriramk"><img src="https://raw.githubusercontent.com/deepaksriramk/deepaksriramk/output/github-contribution-grid-snake.svg?v=3" alt="Live GitHub contribution snake for Deepaksriramk" width="96%"></a></p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -231,8 +225,10 @@ const deepaksriram = {
 </p>
 
 <p align="center">
-  📍 Erode, Tamil Nadu &nbsp;·&nbsp; ✉️ <a href="mailto:sriram934596@gmail.com">sriram934596@gmail.com</a>
+  <a href="mailto:sriram934596@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER-sriram934596%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email Deepaksriram K"></a>
 </p>
+
+<p align="center"><sub>Based in Erode, Tamil Nadu · Open to meaningful collaborations</sub></p>
 
 <br>
 
