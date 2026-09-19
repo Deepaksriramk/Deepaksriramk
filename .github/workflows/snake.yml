@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate GitHub Snake
 
 on:
   push:
@@ -15,13 +15,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate contribution snake
+      - name: Generate contribution snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: deepaksriramk
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=green&color_dots=white,%23d8f3dc,%2395d5a6,%2352b788,%231b7f4d&color_background=white
-            dist/github-contribution-grid-snake-dark.svg?color_snake=green&color_dots=white,%23d8f3dc,%2395d5a6,%2352b788,%231b7f4d&color_background=white
+            dist/github-contribution-grid-snake.svg?color_snake=%2300ff00&color_dots=white,%23d8f3dc,%2395d5a6,%2352b788,%231b7f4d&color_background=white
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300ff00&color_dots=%231a1a1a,%23d8f3dc,%2395d5a6,%2352b788,%231b7f4d&color_background=%231a1a1a
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
