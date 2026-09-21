@@ -208,10 +208,10 @@ const deepaksriram = {
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">Coding Activity</h2>
+<h2 align="center">Coding Activity &amp; Contest Record</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcode-stats-six.vercel.app/api?username=Deepaksriram&theme=dark" alt="LeetCode: problems solved by difficulty" width="49%"></a>
+  <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcard.jacoblin.cool/Deepaksriram?theme=dark&amp;font=Karma&amp;ext=contest" alt="LeetCode: contest rating, highest rating, ranking, and contest rating history with important dates" width="48%"></a>
 </p>
 
 <p align="center">
