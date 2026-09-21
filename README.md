@@ -240,4 +240,3 @@ const deepaksriram = {
 
 <br>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something impactful together.">
