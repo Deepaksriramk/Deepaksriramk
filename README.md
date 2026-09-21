@@ -211,7 +211,7 @@ const deepaksriram = {
 <h2 align="center">Coding Activity &amp; Contest Record</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcard.jacoblin.cool/Deepaksriram?theme=dark&amp;font=Karma&amp;ext=contest" alt="LeetCode: contest rating, highest rating, ranking, and contest rating history with important dates" width="48%"></a>
+  <a href="https://leetcode.com/u/Deepaksriram/"><img src="https://leetcard.jacoblin.cool/Deepaksriram?theme=dark&font=Space%20Grotesk&ext=contest" alt="LeetCode: contest rating, highest rating, ranking, and contest rating history with important dates" width="48%"></a>
 </p>
 
 <p align="center">
